@@ -4,8 +4,8 @@ Junior Business Analyst portfolio with examples of business process modeling and
 
 ---
 
-Junior Business Analyst focused on process modeling and requirements documentation.
-Interested in system analysis, workflow optimization, and structured solution design.
+Business Analyst focused on process modeling and structured requirements documentation.
+Interested in system analysis, workflow optimization, and clear solution design.
 
 ## About
 
